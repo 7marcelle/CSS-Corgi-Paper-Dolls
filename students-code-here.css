@@ -1,0 +1,30 @@
+
+.funny-glasses {
+
+    position: relative;
+    top: -109px;
+    left: 213px;
+}
+
+.bandana {
+    position: absolute; 
+    left:105px;
+    top:178px;
+    }
+
+
+.pawprint {
+    position: fixed;
+    top: 45px;
+    left: 66px;
+}
+
+.luna {
+    position: sticky;
+    left: 12px;
+}
+
+.top-hat {
+    position: relative;
+    z-index: 1;
+}
